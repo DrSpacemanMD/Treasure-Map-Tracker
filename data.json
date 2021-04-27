@@ -1,0 +1,11 @@
+{
+    "mapMarker1": {
+        "cordX": "50",
+        "cordY": "50",
+        "icon": "map-marker.svg",
+        "modal": {
+            "title": "Meow Cat",
+            "content": "<img src='https://placekitten.com/200/300'>"
+        }
+    }
+}
